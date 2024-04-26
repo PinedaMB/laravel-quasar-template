@@ -15,10 +15,10 @@ Para clonar y ejecutar el proyecto necesitas [Git](https://git-scm.com), [Node.j
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/PinedaMB/laravel-quasar-template.git
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd laravel-quasar-template
 
 # Go to back-end folder
 $ cd ./backend
